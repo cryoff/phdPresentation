@@ -1,0 +1,5 @@
+for f in *.svg
+do
+	#echo "Removing password for pdf file - $f"
+	inkscape -f "$f" -A "export_pdf/$f".pdf
+done

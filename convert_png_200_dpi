@@ -1,0 +1,7 @@
+cd svg
+for f in *.svg
+do
+	#echo "Removing password for pdf file - $f"
+	inkscape -f "$f" --export-dpi=200 --export-png="../export_200_dpi/$f".png
+done
+

@@ -22,15 +22,15 @@
    style="enable-background:new">
   <sodipodi:namedview
      inkscape:document-units="px"
-     pagecolor="#f8f8f8"
+     pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0076272"
-     inkscape:cx="558.0567"
-     inkscape:cy="219.4576"
-     inkscape:current-layer="layer3"
+     inkscape:cx="241.47136"
+     inkscape:cy="217.47274"
+     inkscape:current-layer="layer2"
      id="namedview5550"
      showgrid="false"
      inkscape:window-width="1920"
@@ -8220,7 +8220,8 @@
      transform="translate(0,-144.09451)"
      inkscape:label="Background"
      id="layer2"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <text
        style="font-size:22.95383453px"
        y="907.66229"
@@ -8231,7 +8232,7 @@
          id="tspan5238"
          y="907.66229"
          x="-64.031197"
-         style="font-size:15.88577557px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#659400;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:MSAM10;-inkscape-font-specification:MSAM10" />
+         style="font-variant:normal;font-weight:normal;font-size:15.88577557px;font-family:MSAM10;-inkscape-font-specification:MSAM10;writing-mode:lr-tb;fill:#659400;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </text>
     <text
        style="font-size:22.95383453px"
@@ -8243,7 +8244,7 @@
          id="tspan5258"
          y="947.07202"
          x="-64.031197"
-         style="font-size:15.88577557px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#659400;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:MSAM10;-inkscape-font-specification:MSAM10" />
+         style="font-variant:normal;font-weight:normal;font-size:15.88577557px;font-family:MSAM10;-inkscape-font-specification:MSAM10;writing-mode:lr-tb;fill:#659400;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </text>
     <text
        style="font-size:22.95383453px"
@@ -8255,7 +8256,7 @@
          id="tspan5286"
          y="949.42297"
          x="95.536217"
-         style="font-size:21.74359512px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMMI10;-inkscape-font-specification:CMMI10" />
+         style="font-variant:normal;font-weight:normal;font-size:21.74359512px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </text>
     <text
        style="font-size:22.95383453px"
@@ -8267,7 +8268,7 @@
          id="tspan5346"
          y="986.48193"
          x="-64.031197"
-         style="font-size:15.88577557px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#659400;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:MSAM10;-inkscape-font-specification:MSAM10" />
+         style="font-variant:normal;font-weight:normal;font-size:15.88577557px;font-family:MSAM10;-inkscape-font-specification:MSAM10;writing-mode:lr-tb;fill:#659400;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </text>
     <text
        style="font-size:22.95383453px"
@@ -8279,7 +8280,7 @@
          id="tspan5374"
          y="1025.8917"
          x="-64.031197"
-         style="font-size:15.88577557px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#659400;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:MSAM10;-inkscape-font-specification:MSAM10" />
+         style="font-variant:normal;font-weight:normal;font-size:15.88577557px;font-family:MSAM10;-inkscape-font-specification:MSAM10;writing-mode:lr-tb;fill:#659400;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </text>
     <text
        style="font-size:22.95383453px"
@@ -8291,7 +8292,7 @@
          id="tspan5458"
          y="1018.0587"
          x="328.46982"
-         style="font-size:15.88577557px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMSY10;-inkscape-font-specification:CMSY10" />
+         style="font-variant:normal;font-weight:normal;font-size:15.88577557px;font-family:CMSY10;-inkscape-font-specification:CMSY10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </text>
     <text
        style="font-size:22.95383453px"
@@ -8303,7 +8304,7 @@
          id="tspan5462"
          y="1065.2997"
          x="-64.031197"
-         style="font-size:15.88577557px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#659400;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:MSAM10;-inkscape-font-specification:MSAM10" />
+         style="font-variant:normal;font-weight:normal;font-size:15.88577557px;font-family:MSAM10;-inkscape-font-specification:MSAM10;writing-mode:lr-tb;fill:#659400;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </text>
     <text
        style="font-size:22.95383453px"
@@ -8315,7 +8316,7 @@
          id="tspan5470"
          y="1067.6505"
          x="20.496304"
-         style="font-size:21.74359512px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMMI10;-inkscape-font-specification:CMMI10" />
+         style="font-variant:normal;font-weight:normal;font-size:21.74359512px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </text>
     <text
        style="font-size:22.95383453px"
@@ -8326,7 +8327,7 @@
       <tspan
          id="tspan5490"
          sodipodi:role="line"
-         style="font-size:11.43407059px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMSSBX10;-inkscape-font-specification:CMSSBX10"
+         style="font-variant:normal;font-weight:normal;font-size:11.43407059px;font-family:CMSSBX10;-inkscape-font-specification:CMSSBX10;writing-mode:lr-tb;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="775.3493"
          y="522.96875" />
     </text>
@@ -8336,10 +8337,10 @@
        height="36"
        width="800"
        id="rect5762"
-       style="color:#000000;fill:#d1d1d1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:13;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d1d1d1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:13;marker:none;enable-background:accumulate" />
     <flowRoot
        transform="translate(-143.05078,35.94988)"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#395a6c;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#395a6c;fill-opacity:1;stroke:none"
        id="flowRoot5764"
        xml:space="preserve"><flowRegion
          id="flowRegion5766"><rect
@@ -8350,7 +8351,7 @@
            width="482.89313"
            id="rect5768" /></flowRegion><flowPara
          style="font-size:24px;fill:#395a6c;fill-opacity:1"
-         id="flowPara5770">Maximum entropy method</flowPara></flowRoot>  </g>
+         id="flowPara5770">Maximum entropy</flowPara></flowRoot>  </g>
   <g
      transform="translate(0,-144.09451)"
      style="display:inline"

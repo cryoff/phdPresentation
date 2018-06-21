@@ -22,19 +22,19 @@
    style="enable-background:new">
   <sodipodi:namedview
      inkscape:document-units="px"
-     pagecolor="#f8f8f8"
+     pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4616667"
-     inkscape:cx="343.21551"
+     inkscape:cx="234.09351"
      inkscape:cy="408.09578"
      inkscape:current-layer="layer3"
      id="namedview5550"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1037"
+     inkscape:window-width="1600"
+     inkscape:window-height="1157"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -6263,7 +6263,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

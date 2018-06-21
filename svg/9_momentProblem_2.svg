@@ -17,26 +17,26 @@
    height="600"
    id="svg5546"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="MomentProblem_full.svg"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="9_momentProblem_2.svg"
    style="enable-background:new">
   <sodipodi:namedview
      inkscape:document-units="px"
-     pagecolor="#f8f8f8"
+     pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.395"
-     inkscape:cx="400"
+     inkscape:cx="285.66308"
      inkscape:cy="242.65233"
      inkscape:current-layer="layer3"
      id="namedview5550"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1014"
+     inkscape:window-width="1600"
+     inkscape:window-height="1157"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-object-midpoints="false"
      inkscape:snap-midpoints="true"
@@ -87,6 +87,14 @@
   </sodipodi:namedview>
   <defs
      id="defs5548">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient50026">
+      <stop
+         id="stop50028"
+         offset="0"
+         style="stop-color:#757399;stop-opacity:1;" />
+    </linearGradient>
     <linearGradient
        osb:paint="solid"
        id="linearGradient31148">
@@ -971,7 +979,7 @@
     </marker>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient26515"
+       xlink:href="#linearGradient50026"
        id="linearGradient26525"
        x1="805"
        y1="510.83856"
@@ -6750,16 +6758,6 @@
        y1="169.4436"
        x2="622.33325"
        y2="287.73825" />
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter8740-8-1">
-      <feBlend
-         inkscape:collect="always"
-         mode="lighten"
-         in2="BackgroundImage"
-         id="feBlend8742-8-5" />
-    </filter>
     <linearGradient
        y2="563.63403"
        x2="634.77179"
@@ -6778,16 +6776,6 @@
          offset="0"
          style="stop-color:#757399;stop-opacity:1;" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter8740-8">
-      <feBlend
-         inkscape:collect="always"
-         mode="lighten"
-         in2="BackgroundImage"
-         id="feBlend8742-8" />
-    </filter>
     <linearGradient
        y2="563.63403"
        x2="634.77179"
@@ -7568,16 +7556,6 @@
          offset="0"
          style="stop-color:#757399;stop-opacity:1;" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter8740-8-0">
-      <feBlend
-         inkscape:collect="always"
-         mode="lighten"
-         in2="BackgroundImage"
-         id="feBlend8742-8-51" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient31148-8-0-1"
@@ -8122,7 +8100,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -8645,11 +8623,11 @@
              sodipodi:cy="282.61649"
              sodipodi:rx="8.6917562"
              sodipodi:ry="8.0645161"
-             d="m 424.37276,282.61649 c 0,4.4539 -3.89144,8.06451 -8.69176,8.06451 -4.80032,0 -8.69176,-3.61061 -8.69176,-8.06451 0,-4.45391 3.89144,-8.06452 8.69176,-8.06452 4.80032,0 8.69176,3.61061 8.69176,8.06452 z"
+             d="m 424.37276,282.61649 a 8.6917562,8.0645161 0 0 1 -8.69176,8.06451 8.6917562,8.0645161 0 0 1 -8.69176,-8.06451 8.6917562,8.0645161 0 0 1 8.69176,-8.06452 8.6917562,8.0645161 0 0 1 8.69176,8.06452 z"
              transform="matrix(0.52714793,0,0,0.52714793,54.866635,-17.424091)" />
           <path
              transform="matrix(0.52714793,0,0,0.52714793,7.9382966,-5.8147842)"
-             d="m 424.37276,282.61649 c 0,4.4539 -3.89144,8.06451 -8.69176,8.06451 -4.80032,0 -8.69176,-3.61061 -8.69176,-8.06451 0,-4.45391 3.89144,-8.06452 8.69176,-8.06452 4.80032,0 8.69176,3.61061 8.69176,8.06452 z"
+             d="m 424.37276,282.61649 a 8.6917562,8.0645161 0 0 1 -8.69176,8.06451 8.6917562,8.0645161 0 0 1 -8.69176,-8.06451 8.6917562,8.0645161 0 0 1 8.69176,-8.06452 8.6917562,8.0645161 0 0 1 8.69176,8.06452 z"
              sodipodi:ry="8.0645161"
              sodipodi:rx="8.6917562"
              sodipodi:cy="282.61649"
@@ -9097,11 +9075,11 @@
          sodipodi:cy="282.61649"
          sodipodi:rx="8.6917562"
          sodipodi:ry="8.0645161"
-         d="m 424.37276,282.61649 c 0,4.4539 -3.89144,8.06451 -8.69176,8.06451 -4.80032,0 -8.69176,-3.61061 -8.69176,-8.06451 0,-4.45391 3.89144,-8.06452 8.69176,-8.06452 4.80032,0 8.69176,3.61061 8.69176,8.06452 z"
+         d="m 424.37276,282.61649 a 8.6917562,8.0645161 0 0 1 -8.69176,8.06451 8.6917562,8.0645161 0 0 1 -8.69176,-8.06451 8.6917562,8.0645161 0 0 1 8.69176,-8.06452 8.6917562,8.0645161 0 0 1 8.69176,8.06452 z"
          transform="matrix(1.116,0,0,1.116,90.36524,87.99199)" />
       <path
          transform="matrix(1.116,0,0,1.116,88.36524,115.99199)"
-         d="m 424.37276,282.61649 c 0,4.4539 -3.89144,8.06451 -8.69176,8.06451 -4.80032,0 -8.69176,-3.61061 -8.69176,-8.06451 0,-4.45391 3.89144,-8.06452 8.69176,-8.06452 4.80032,0 8.69176,3.61061 8.69176,8.06452 z"
+         d="m 424.37276,282.61649 a 8.6917562,8.0645161 0 0 1 -8.69176,8.06451 8.6917562,8.0645161 0 0 1 -8.69176,-8.06451 8.6917562,8.0645161 0 0 1 8.69176,-8.06452 8.6917562,8.0645161 0 0 1 8.69176,8.06452 z"
          sodipodi:ry="8.0645161"
          sodipodi:rx="8.6917562"
          sodipodi:cy="282.61649"
@@ -9117,7 +9095,7 @@
          sodipodi:cy="282.61649"
          sodipodi:rx="8.6917562"
          sodipodi:ry="8.0645161"
-         d="m 424.37276,282.61649 c 0,4.4539 -3.89144,8.06451 -8.69176,8.06451 -4.80032,0 -8.69176,-3.61061 -8.69176,-8.06451 0,-4.45391 3.89144,-8.06452 8.69176,-8.06452 4.80032,0 8.69176,3.61061 8.69176,8.06452 z"
+         d="m 424.37276,282.61649 a 8.6917562,8.0645161 0 0 1 -8.69176,8.06451 8.6917562,8.0645161 0 0 1 -8.69176,-8.06451 8.6917562,8.0645161 0 0 1 8.69176,-8.06452 8.6917562,8.0645161 0 0 1 8.69176,8.06452 z"
          transform="matrix(1.116,0,0,1.116,112.36524,115.99199)" />
       <g
          transform="matrix(2.1170528,0,0,2.1170528,70.78865,182.8318)"
@@ -9183,7 +9161,7 @@
          sodipodi:cy="282.61649"
          sodipodi:rx="8.6917562"
          sodipodi:ry="8.0645161"
-         d="m 424.37276,282.61649 c 0,4.4539 -3.89144,8.06451 -8.69176,8.06451 -4.80032,0 -8.69176,-3.61061 -8.69176,-8.06451 0,-4.45391 3.89144,-8.06452 8.69176,-8.06452 4.80032,0 8.69176,3.61061 8.69176,8.06452 z"
+         d="m 424.37276,282.61649 a 8.6917562,8.0645161 0 0 1 -8.69176,8.06451 8.6917562,8.0645161 0 0 1 -8.69176,-8.06451 8.6917562,8.0645161 0 0 1 8.69176,-8.06452 8.6917562,8.0645161 0 0 1 8.69176,8.06452 z"
          transform="matrix(1.116,0,0,1.116,88.36524,199.99199)" />
       <path
          sodipodi:type="arc"
@@ -9193,7 +9171,7 @@
          sodipodi:cy="282.61649"
          sodipodi:rx="8.6917562"
          sodipodi:ry="8.0645161"
-         d="m 424.37276,282.61649 c 0,4.4539 -3.89144,8.06451 -8.69176,8.06451 -4.80032,0 -8.69176,-3.61061 -8.69176,-8.06451 0,-4.45391 3.89144,-8.06452 8.69176,-8.06452 4.80032,0 8.69176,3.61061 8.69176,8.06452 z"
+         d="m 424.37276,282.61649 a 8.6917562,8.0645161 0 0 1 -8.69176,8.06451 8.6917562,8.0645161 0 0 1 -8.69176,-8.06451 8.6917562,8.0645161 0 0 1 8.69176,-8.06452 8.6917562,8.0645161 0 0 1 8.69176,8.06452 z"
          transform="matrix(1.116,0,0,1.116,88.36524,227.99199)" />
       <g
          transform="matrix(2.1170528,0,0,2.1170528,92.78865,264.8318)"
@@ -9268,7 +9246,7 @@
            sodipodi:cy="282.61649"
            sodipodi:rx="8.6917562"
            sodipodi:ry="8.0645161"
-           d="m 424.37276,282.61649 c 0,4.4539 -3.89144,8.06451 -8.69176,8.06451 -4.80032,0 -8.69176,-3.61061 -8.69176,-8.06451 0,-4.45391 3.89144,-8.06452 8.69176,-8.06452 4.80032,0 8.69176,3.61061 8.69176,8.06452 z"
+           d="m 424.37276,282.61649 a 8.6917562,8.0645161 0 0 1 -8.69176,8.06451 8.6917562,8.0645161 0 0 1 -8.69176,-8.06451 8.6917562,8.0645161 0 0 1 8.69176,-8.06452 8.6917562,8.0645161 0 0 1 8.69176,8.06452 z"
            transform="matrix(1.116,0,0,1.116,-1010.9053,-10.498752)" />
       </g>
       <path

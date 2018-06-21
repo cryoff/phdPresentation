@@ -20,14 +20,14 @@
    sodipodi:docname="1_Title.svg">
   <sodipodi:namedview
      inkscape:document-units="px"
-     pagecolor="#f8f8f8"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4616667"
-     inkscape:cx="338.56405"
-     inkscape:cy="252.76597"
+     inkscape:cx="229.44205"
+     inkscape:cy="251.39767"
      inkscape:current-layer="layer2"
      id="namedview5550"
      showgrid="false"
@@ -3751,7 +3751,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

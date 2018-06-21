@@ -22,14 +22,14 @@
    style="enable-background:new">
   <sodipodi:namedview
      inkscape:document-units="px"
-     pagecolor="#f8f8f8"
+     pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4616667"
-     inkscape:cx="406.84151"
-     inkscape:cy="300"
+     inkscape:cx="188.59751"
+     inkscape:cy="298.6317"
      inkscape:current-layer="layer3"
      id="namedview5550"
      showgrid="false"
@@ -8935,18 +8935,6 @@
          x="604.96912"
          y="495.58136" /></text>
     <text
-       transform="matrix(2.1910212,0,0,2.1910212,-1277.69,-869.44056)"
-       id="text10720"
-       y="577.97229"
-       x="633.31573"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;filter:url(#filter8740-8-6-4);enable-background:accumulate"
-       xml:space="preserve"><tspan
-         id="tspan10722"
-         style="font-size:20px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
-         y="577.97229"
-         x="633.31573"
-         sodipodi:role="line">=</tspan></text>
-    <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;filter:url(#filter8740-8-6-4);enable-background:accumulate"
        x="633.31573"
@@ -9059,20 +9047,6 @@
            x="335.91791"
            y="225.76968" /></flowRegion><flowPara
          id="flowPara7398" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot7405"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-119.72634,144.26165)"><flowRegion
-         id="flowRegion7407"><rect
-           id="rect7409"
-           width="539.11066"
-           height="64.994286"
-           x="276.39679"
-           y="226.45383" /></flowRegion><flowPara
-         id="flowPara7413"
-         style="font-size:20px">unconstrained dual function minimization</flowPara><flowPara
-         id="flowPara7415"
-         style="font-size:20px" /></flowRoot>    <flowRoot
        transform="translate(-184.63584,322.32317)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot7422"
@@ -9602,5 +9576,19 @@
          id="path28442"
          d="m 230.77,706.07 0,-0.01 0,-0.01 -0.01,-0.01 0,-0.01 0,-0.01 0,-0.01 -0.01,-0.01 0,-0.01 -0.01,-0.02 0,-0.03 -0.01,-0.02 0,-0.02 -0.01,-0.01 0,-0.01 0,-0.01 0,-0.01 -0.01,-0.01 0,-0.01 0,-0.01 0,-0.01 0,0 0,-0.01 -0.01,-0.01 0,0 0,-0.01 0,0 0,0 0,0 0,0 0,-0.01 c 0,-0.15 0.13,-0.22 0.24,-0.22 0.12,0 0.24,0.09 0.27,0.15 0.03,0.07 0.09,0.29 0.13,0.44 0.03,0.13 0.11,0.45 0.15,0.62 0.04,0.15 0.08,0.31 0.12,0.47 0.07,0.28 0.09,0.34 0.29,0.62 0.2,0.28 0.52,0.64 1.05,0.64 0.4,0 0.41,-0.35 0.41,-0.48 0,-0.42 -0.3,-1.19 -0.41,-1.49 -0.08,-0.19 -0.11,-0.25 -0.11,-0.37 0,-0.37 0.31,-0.6 0.66,-0.6 0.7,0 1.01,0.96 1.01,1.06 0,0.1 -0.1,0.1 -0.12,0.1 -0.09,0 -0.1,-0.05 -0.13,-0.12 -0.16,-0.56 -0.46,-0.84 -0.74,-0.84 -0.14,0 -0.17,0.09 -0.17,0.24 0,0.16 0.03,0.25 0.16,0.56 0.08,0.22 0.37,0.96 0.37,1.35 0,0.67 -0.54,0.79 -0.91,0.79 -0.58,0 -0.97,-0.36 -1.17,-0.63 -0.05,0.47 -0.46,0.63 -0.75,0.63 -0.3,0 -0.46,-0.22 -0.55,-0.38 -0.15,-0.25 -0.25,-0.65 -0.25,-0.69 0,-0.09 0.1,-0.09 0.12,-0.09 0.09,0 0.1,0.02 0.15,0.21 0.1,0.41 0.24,0.75 0.51,0.75 0.18,0 0.23,-0.15 0.23,-0.34 0,-0.13 -0.06,-0.39 -0.11,-0.57 -0.05,-0.19 -0.12,-0.48 -0.16,-0.63 z"
          inkscape:connector-curvature="0"
-         style="fill:#000000;stroke-width:0" /></g>  </g>
+         style="fill:#000000;stroke-width:0" /></g>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7405"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+       transform="translate(-185.13389,144.26165)"><flowRegion
+         id="flowRegion7407"><rect
+           id="rect7409"
+           width="539.11066"
+           height="64.994286"
+           x="276.39679"
+           y="226.45383" /></flowRegion><flowPara
+         id="flowPara7413"
+         style="font-size:20px">unconstrained dual function minimization</flowPara><flowPara
+         id="flowPara7415"
+         style="font-size:20px" /></flowRoot>  </g>
 </svg>

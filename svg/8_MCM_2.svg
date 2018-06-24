@@ -27,9 +27,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4616667"
-     inkscape:cx="297.71951"
-     inkscape:cy="298.6317"
+     inkscape:zoom="4.1342177"
+     inkscape:cx="111.76547"
+     inkscape:cy="304.5798"
      inkscape:current-layer="layer3"
      id="namedview5550"
      showgrid="false"
@@ -8513,12 +8513,6 @@
        transform="translate(0,144.09451)"><tspan
          sodipodi:role="line"
          id="tspan13088" /></text>
-    <path
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       id="path31753-7-5"
-       d="m 73.325005,451.92959 0,-42.44246"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:url(#linearGradient28766-6-5);stroke-width:1.69769824;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:17.5;stroke-dasharray:6.79079318, 6.79079318;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#DotMsO);marker-end:url(#DotMlG);enable-background:accumulate" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.58158588px;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:currentColor;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
@@ -8837,5 +8831,11 @@
            id="path3390-5-9" />
       </g>
     </g>
+    <path
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       id="path31753-7-5"
+       d="m 73.74942,452.35401 0.120942,-33.85559"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f5a0a5;fill-opacity:1;stroke:#f5a0a5;stroke-width:1.69799995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:17.5;stroke-dasharray:5.09399986, 5.09399986;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
   </g>
 </svg>

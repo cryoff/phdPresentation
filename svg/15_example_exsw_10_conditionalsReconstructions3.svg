@@ -27,9 +27,9 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4616667"
-     inkscape:cx="399.99999"
+     inkscape:cx="306.61345"
      inkscape:cy="299.99999"
-     inkscape:current-layer="surface58103"
+     inkscape:current-layer="layer3"
      id="namedview5550"
      showgrid="false"
      inkscape:window-width="1920"
@@ -90,6 +90,186 @@
   </sodipodi:namedview>
   <defs
      id="defs5548">
+    <linearGradient
+       gradientTransform="matrix(0.37485551,0,0,0.37485551,161.64589,-927.37954)"
+       id="linearGradient69354"
+       osb:paint="solid"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         style="stop-color:#f1757c;stop-opacity:1;"
+         offset="0"
+         id="stop69356" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.37485551,0,0,0.37485551,161.64589,-927.37954)"
+       id="linearGradient69344"
+       osb:paint="solid"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         style="stop-color:#f1757c;stop-opacity:1;"
+         offset="0"
+         id="stop69346" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.37485551,0,0,0.37485551,161.64589,-927.37954)"
+       id="linearGradient69245"
+       osb:paint="solid"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         style="stop-color:#f1757c;stop-opacity:1;"
+         offset="0"
+         id="stop69247" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.37485551,0,0,0.37485551,161.64589,-927.37954)"
+       id="linearGradient69235"
+       osb:paint="solid"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         style="stop-color:#f1757c;stop-opacity:1;"
+         offset="0"
+         id="stop69237" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.37485551,0,0,0.37485551,161.64589,-927.37954)"
+       id="linearGradient68956"
+       osb:paint="solid"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         style="stop-color:#f1757c;stop-opacity:1;"
+         offset="0"
+         id="stop68958" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.37485551,0,0,0.37485551,161.64589,-927.37954)"
+       id="linearGradient68946"
+       osb:paint="solid"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         style="stop-color:#f1757c;stop-opacity:1;"
+         offset="0"
+         id="stop68948" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.37485551,0,0,0.37485551,161.64589,-927.37954)"
+       id="linearGradient68847"
+       osb:paint="solid"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         style="stop-color:#f1757c;stop-opacity:1;"
+         offset="0"
+         id="stop68849" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.37485551,0,0,0.37485551,161.64589,-927.37954)"
+       id="linearGradient68837"
+       osb:paint="solid"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         style="stop-color:#f1757c;stop-opacity:1;"
+         offset="0"
+         id="stop68839" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.37485551,0,0,0.37485551,161.64589,-927.37954)"
+       id="linearGradient68558"
+       osb:paint="solid"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         style="stop-color:#f1757c;stop-opacity:1;"
+         offset="0"
+         id="stop68560" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.37485551,0,0,0.37485551,161.64589,-927.37954)"
+       id="linearGradient68548"
+       osb:paint="solid"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         style="stop-color:#f1757c;stop-opacity:1;"
+         offset="0"
+         id="stop68550" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.37485551,0,0,0.37485551,161.64589,-927.37954)"
+       id="linearGradient68449"
+       osb:paint="solid"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         style="stop-color:#f1757c;stop-opacity:1;"
+         offset="0"
+         id="stop68451" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.37485551,0,0,0.37485551,161.64589,-927.37954)"
+       id="linearGradient68439"
+       osb:paint="solid"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         style="stop-color:#f1757c;stop-opacity:1;"
+         offset="0"
+         id="stop68441" />
+    </linearGradient>
     <linearGradient
        gradientTransform="matrix(0.37485551,0,0,0.37485551,161.64589,-927.37954)"
        id="linearGradient19842"
@@ -11172,7 +11352,7 @@
        osb:paint="solid"
        id="linearGradient28766"
        gradientTransform="matrix(0.37485551,0,0,0.37485551,161.64589,-927.37954)"
-       xlink:href="#linearGradient19842">
+       xlink:href="#linearGradient69354">
       <stop
          id="stop28768"
          offset="0"
@@ -60876,18 +61056,6 @@
      inkscape:label="Paper"
      id="layer3"
      inkscape:groupmode="layer">
-    <text
-       xml:space="preserve"
-       style="enable-background:new;display:inline;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="38.820312"
-       y="224.83575"
-       id="text7519"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan7521"
-         x="38.820312"
-         y="224.83575"
-         style="font-size:20px">MC + MaxEnt</tspan></text>
     <g
        id="surface58103"
        transform="matrix(1.4127515,0,0,1.4127515,138.64024,244.41045)">

@@ -26,9 +26,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.73083333"
-     inkscape:cx="368.32117"
-     inkscape:cy="442.63645"
+     inkscape:zoom="1.4616667"
+     inkscape:cx="400"
+     inkscape:cy="192.98348"
      inkscape:current-layer="layer3"
      id="namedview5550"
      showgrid="false"
@@ -9163,7 +9163,7 @@
          sodipodi:role="line" /></text>
     <g
        id="g7496"
-       transform="translate(0,-100.8792)">
+       transform="translate(0,-107.85152)">
       <text
          sodipodi:linespacing="125%"
          id="text7466"
@@ -9271,7 +9271,7 @@
     </g>
     <g
        id="g6330"
-       transform="translate(0,-20)">
+       transform="translate(0,-26.00003)">
       <g
          id="g12920"
          transform="matrix(0.09077999,0,0,0.09742416,-55.367238,194.08331)"
@@ -9461,7 +9461,7 @@
     </g>
     <g
        id="g7512"
-       transform="translate(0,-125.15633)">
+       transform="translate(0,-133.10094)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -9523,7 +9523,7 @@
     </g>
     <g
        id="g6360"
-       transform="translate(0.0425063,-27.433467)">
+       transform="translate(0.0425063,-36.350368)">
       <text
          sodipodi:linespacing="125%"
          id="text7597"
@@ -9580,7 +9580,7 @@
     </g>
     <g
        id="g7694"
-       transform="translate(0,-105.66583)">
+       transform="translate(0,-115.55502)">
       <g
          style="display:inline;fill:#ff0000;fill-opacity:1;enable-background:new"
          transform="matrix(0.09077999,0,0,0.09742416,-55.173649,538.03855)"
@@ -9642,7 +9642,7 @@
     </g>
     <g
        id="g7704"
-       transform="translate(0,-99.94298)">
+       transform="translate(0,-110.80445)">
       <g
          style="display:inline;fill:#ff0000;fill-opacity:1;enable-background:new"
          transform="matrix(0.09077999,0,0,0.09742416,-54.98006,572.03855)"
@@ -9704,7 +9704,7 @@
     </g>
     <g
        id="g7714"
-       transform="translate(0,-94.220125)">
+       transform="translate(0,-106.05387)">
       <g
          id="g8446"
          transform="matrix(0.09077999,0,0,0.09742416,-54.98006,606.03855)"
@@ -9766,7 +9766,7 @@
     </g>
     <g
        id="g7724"
-       transform="translate(0,-88.497272)">
+       transform="translate(0,-101.30328)">
       <g
          style="display:inline;fill:#ff0000;fill-opacity:1;enable-background:new"
          transform="matrix(0.09077999,0,0,0.09742416,-54.98006,640.03855)"
@@ -9834,7 +9834,7 @@
     <g
        style="display:inline;enable-background:new"
        id="g25450"
-       transform="matrix(1.2485747,0,0,1.2485747,-1178.5655,-4403.73)">
+       transform="matrix(1.2485747,0,0,1.2485747,-1171.724,-4406.4666)">
       <rect
          height="45"
          width="30"
